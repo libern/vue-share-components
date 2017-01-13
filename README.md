@@ -16,7 +16,7 @@ Features:
 
 ```
 npm i -g vue-cli
-vue init Akryum/vue-share-components plugin-name
+vue init libern/vue-share-components plugin-name
 ```
 
 # Plugin Development
